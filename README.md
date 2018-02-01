@@ -1,4 +1,4 @@
-#Deployer
+# Deployer
 
 This script is used for deploying a particular application an a free server on available port from the specified range.
 
@@ -21,14 +21,14 @@ deploy <appname> free ip free port
 **Assumptions and prerequisites.**
 
 
-1.The file config.js contains the list of valid apps , list of servers and the port range valid for a particular app.
-2.The file deploy.js is the main file i.e. node server code.
-3.All the node_modules required by the code are contained in the node_modules folder.
-4.Requires node version 8 or above.
-5.So , there are 10 servers in the config file , 10 apps for now(can be increased to 1000).
-6.Deploying a particular app on a particular server and port assuming it is not already running.
-7.Assuming a range of ports to be available for a particular app (As specified in the config file).
-
+1. The file config.js contains the list of valid apps , list of servers and the port range valid for a particular app.
+2. The file deploy.js is the main file i.e. node server code.
+3. All the node_modules required by the code are contained in the node_modules folder.
+4. Requires node version 8 or above.
+5. So , there are 10 servers in the config file , 10 apps for now(can be increased to 1000).
+6. Deploying a particular app on a particular server and port assuming it is not already running.
+7. Assuming a range of ports to be available for a particular app (As specified in the config file).
+8. Logs are being written in a logfile deploy.log .(Using bunyan for logging)
 
 **Steps to deploy.**
 
