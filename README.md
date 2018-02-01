@@ -31,6 +31,8 @@ deploy <appname> free ip free port
 8. Logs are being written in a logfile deploy.log .(Using bunyan for logging)
 9. Free server is being maintained in the config file as a dummy list of servers(a free server i had kept as local , so that port checking becomes easy)
 10. Free port is checked using connectPort.sh script.
+
+
 **Steps to deploy.**
 
 
