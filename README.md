@@ -29,7 +29,8 @@ deploy <appname> free ip free port
 6. Deploying a particular app on a particular server and port assuming it is not already running.
 7. Assuming a range of ports to be available for a particular app (As specified in the config file).
 8. Logs are being written in a logfile deploy.log .(Using bunyan for logging)
-
+9. Free server is being maintained in the config file as a dummy list of servers(a free server i had kept as local , so that port checking becomes easy)
+10. Free port is checked using connectPort.sh script.
 **Steps to deploy.**
 
 
