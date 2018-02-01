@@ -1,0 +1,10 @@
+{"name":"deploy","hostname":"laptop","pid":14323,"level":50,"message":"Invalid appName","time":"2018-02-01T12:47:13.871Z","query":"app","msg":"","v":0}
+{"name":"deploy","hostname":"laptop","pid":14334,"level":50,"message":"Wrong Command Format","time":"2018-02-01T12:47:19.650Z","msg":"","v":0}
+{"name":"deploy","hostname":"laptop","pid":14350,"level":50,"message":"Wrong Command Format","time":"2018-02-01T12:47:33.442Z","msg":"","v":0}
+{"name":"deploy","hostname":"laptop","pid":14364,"level":20,"msg":"TEST","time":"2018-02-01T12:47:43.464Z","v":0}
+{"name":"deploy","hostname":"laptop","pid":14364,"level":50,"message":"Wrong Command Format","time":"2018-02-01T12:47:43.469Z","msg":"","v":0}
+{"name":"deploy","hostname":"laptop","pid":14376,"level":20,"msg":"TEST","time":"2018-02-01T12:47:45.481Z","v":0}
+{"name":"deploy","hostname":"laptop","pid":14376,"level":50,"message":"Wrong Command Format","time":"2018-02-01T12:47:45.486Z","msg":"","v":0}
+{"name":"deploy","hostname":"laptop","pid":14659,"level":50,"message":"Invalid appName","time":"2018-02-01T12:54:24.170Z","query":"app","msg":"","v":0}
+{"name":"deploy","hostname":"laptop","pid":14670,"level":50,"message":"Wrong Command Format","time":"2018-02-01T12:54:27.672Z","msg":"","v":0}
+{"name":"deploy","hostname":"laptop","pid":14810,"level":50,"message":"Invalid appName","time":"2018-02-01T13:00:07.860Z","query":"app","msg":"","v":0}
